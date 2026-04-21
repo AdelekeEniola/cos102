@@ -1,2 +1,2 @@
 # cos102
-cos 102 react project
+Group_22_Item_price_generator
